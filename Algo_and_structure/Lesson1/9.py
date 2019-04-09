@@ -10,3 +10,4 @@ if one_number < two_number < three_number or one_number > two_number > three_num
 if one_number > three_number > two_number or one_number < three_number < two_number:
         print('\nСреднее число третье.')
 
+

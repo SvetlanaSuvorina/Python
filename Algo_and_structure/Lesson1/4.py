@@ -19,3 +19,5 @@ value_start = input('Начало границы диапазона: ')
 value_end = input('Конец границы диапазона: ')
 print(f'Случайный символ между {value_start} и {value_end}: {chr(random.randint(ord(value_start),ord(value_end)))}.')
 
+
+

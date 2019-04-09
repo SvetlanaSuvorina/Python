@@ -24,3 +24,4 @@ summary = first_digit+second_digit+third_digit
 composition = first_digit*second_digit*third_digit
 print('Cумма цифр числа:', summary)
 print('Произведение цифр числа:', composition)
+
